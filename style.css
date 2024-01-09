@@ -1,0 +1,305 @@
+/* banner style */
+.img{
+    background-image: 
+    linear-gradient(to bottom,#070211, #07021100), 
+    url(Banner\ Image.png);
+    width: 1320px;
+    background-size: cover;
+    color: #FFF;
+    width: 100%;
+    max-width: 1320px;
+    margin: 0 auto;
+    margin-top: 50px;
+    height: 600px;
+}
+.banner-text{
+    text-align: center;
+    padding: 177px 400px 380px 400px;
+}
+.happy{
+    color: #FFF;
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+header h4{
+    font-size: 60px;
+    margin-top: 0%;
+} 
+/* off % style */
+.off{
+    font-size: 88px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: rgba(255, 0, 0, 1);
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 0;
+}
+.our{
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: rgba(255, 0, 0, 1);
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+.all{
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: rgba(7, 2, 17, 1);
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+/* happy new year picture style */
+.new-year{
+    width: 802.9px;
+    height: 500px;
+    margin: 0 25%;
+}
+/* .welcome banner style */
+.welcome{
+    font-family: 'Merriweather', serif;
+    color: rgba(255, 255, 255, 1);
+    font-size: 64px;
+    width: 642px;
+    font-weight: Black;
+    margin: 130px 550px 300px 100px;
+    position: absolute;
+}
+.vectorr{
+    background-image: linear-gradient(to right,#070211, #07021100),url(Vectorrr.png);
+    display: flex;
+    background-repeat: no-repeat;
+    width: 82.5%;
+    max-width:1320px;
+    margin: 120px auto;
+    position: relative;
+}
+.img-2{
+    position: absolute;
+    top: 70px;
+    right: 140px;
+    bottom: 70px;
+    left: 860px;
+}
+.button{
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: Bold;
+    color: rgba(255, 255, 255, 1);
+    background-color: #FF0000;
+    background: none;
+    border-radius: 15px;
+    position: absolute;
+    top: 430px;
+    right: 1000px;
+    bottom:  100px;
+    left: 160px;
+}
+/* hotel joining banner style */
+.dolor{
+    font-size: 12px;
+    width: 697px;
+    font-family: "Inter";
+    color: rgba(255, 255, 255, 1);
+    margin: 330px 500px 210px 100px;
+}
+.hotel{
+    background: linear-gradient(to bottom,#f7b1b1, #FF000000);
+    width: 1320px;
+    max-width:1320px;
+    margin: 120px auto;
+    padding: 200px auto;
+}
+.place{
+    font-size: 32px;
+    font-family: "Inter";
+    font-weight: Bold;
+    color: transparent#070211 ;
+    text-align: center;
+}
+.button-1{
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: Bold;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 0, 0, 1);
+    border-radius: 15px;
+    padding: 10px 25px;
+    margin-left: 600px;
+}
+/* holidays sale offer banner */
+div p span{
+    color: #FF0000;
+}
+.new{
+    padding: 100px 0px;
+}
+.functional{
+    width: 1320px;
+    width: 82.5%;
+    max-width:1320px;
+    margin: 120px auto;
+}
+.what{
+    font-size: 24px;
+    width: 263px;
+    font-family: "Inter";
+    font-weight: Medium;
+    color: rgba(7, 2, 17, 1);
+    margin: 0 20% 0 40%;
+}
+.holidays{
+    font-size: 72px;
+    width: 677px;
+    font-family: "Merriweather";
+    margin: 0 25% 28px 25%;
+}
+.sale{
+    font-size: 20px;
+    width: 1068px;
+    font-family: "Inter";
+    color: rgba(7, 2, 17, 1);
+    margin: 0 10%;
+}
+.div1{
+    position: relative;
+    margin-bottom: 0;
+}
+.img-1{
+    margin-left: 1070px;
+}
+.img2{
+    position: absolute;
+    right: 580px;
+    top: 50px;
+}
+.div2{
+    margin-top: 0;
+    position: relative;
+}
+.img3{
+    margin-left: 250px;
+    width: 1250px;
+}
+.img4{
+    position: absolute;
+    right: 800px;
+    bottom: 30px;
+    height: 550px;
+}
+/* bonus point */
+.offer{
+    display: flex;
+    width: 1320px;
+    margin: 120px auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.coming{
+    width: 33%;
+    margin-right: 50px;
+}
+.new1{
+    font-size: 24px;
+    width: 207px;
+    font-family: "Inter";
+    color: rgba(255, 0, 0, 1);
+    margin-bottom: 0;
+}
+.soon{
+    font-size: 48px;
+    width: 328px;
+    font-family: "Merriweather";
+    color: rgba(7, 2, 17, 1);
+    margin: 0;
+}
+.text-1{
+    font-size: 20px;
+    width: 393px;
+    font-family: "Inter";
+    color: rgba(7, 2, 17, 1);
+    margin-top: 25px;
+}
+.elipse1{
+    width: 33%;
+}
+.elipse1{
+    border: 15px solid #FF0000;
+    border-radius: 50%;
+}
+.elipse{
+    padding: 35px;
+}
+.text1{
+    width: 33%;
+    margin-left: 100px;
+}
+.number{
+    font-size: 48px;
+    width: 126px;
+    font-family: "Inter";
+    color: rgba(255, 0, 0, 1);
+}
+.text2{
+    font-size: 20px;
+    width: 276px;
+    font-family: "Inter";
+    color: rgba(7, 2, 17, 1);
+}
+/* subscribe style */
+.subscribe1{
+    width: 1320px;
+    background-color: #FF00000D;
+    margin: 120px auto;
+    text-align: center;
+}
+.gmail{
+    margin-bottom: 40px;
+    margin-top: 80px;
+}
+.news{
+    font-size: 48px;
+    width: 512px;
+    font-family: "Merriweather";
+    color: rgba(7, 2, 17, 1);
+    margin-top: 0;
+    margin-bottom: 22px;
+    margin-left: 30%;
+}
+.article{
+    font-size: 20px;
+    width: 896px;
+    font-family: "Inter";
+    color: rgba(7, 2, 17, 1);
+    margin-top: 0;
+    margin-bottom: 48px;
+    margin-left: 15%;
+}
+#email{
+    width: 648px;
+    height: 72px;
+    background-color: rgba(255, 255, 255, 1);
+    margin-top: 0;
+    margin-bottom: 80px;
+    border: 5px 0px solid black;
+    border-radius: 10px  0px 0px 10px;
+}
+.subscribe{
+    font-size: 20px;
+    width: 210px;
+    height: 78px;
+    background-color: rgba(255, 0, 0, 1);
+    margin-top: 0;
+    margin-bottom: 80px;
+    border: 5px 0px solid black;
+    border-radius: 0px 10px 10px 0px;
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
